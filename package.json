@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/cssinjs": "^1.17.2",
     "@builder.io/dev-tools": "^0.1.24",
     "@builder.io/react": "^3.0.14",
     "@builder.io/sdk": "^2.0.8",
+    "antd": "^5.10.1",
     "next": "13.5.5",
     "react": "^18",
     "react-dom": "^18"
